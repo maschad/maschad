@@ -10,7 +10,3 @@
 </p>
 
 <br>
-
-![Check the Stats bruv](https://github-readme-stats.vercel.app/api?username=maschad&show_icons=true&theme=synthwave)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id==maschad.maschad)
