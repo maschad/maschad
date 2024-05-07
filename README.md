@@ -2,5 +2,6 @@
 
 My general interests are in permissionless peer-to-peer networks, distributed systems and [Local-first software](https://www.inkandswitch.com/local-first/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maschad&show_icons=true&theme=radical)
+I'm currently working on scaling Ethereum through the [Fuel Network](https://fuel.network)
 
+I also help maintain [js-libp2p](https://github.com/libp2p/js-libp2p)
