@@ -2,6 +2,6 @@
 
 My general interests are in permissionless peer-to-peer networks, distributed systems and [Local-first software](https://www.inkandswitch.com/local-first/).
 
-I'm currently scaling out [Atoma Network](https://www.atoma.network/) which will provide the necessary infrastructure for fully private distirbuted AI.
+I'm currently scaling out [Arda Network](https://www.arda.xyz/) which is the universal operating system for real estate.
 
 I also help maintain [js-libp2p](https://github.com/libp2p/js-libp2p)
